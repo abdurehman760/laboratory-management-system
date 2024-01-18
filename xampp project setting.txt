@@ -1,0 +1,16 @@
+\Xampp\apache\conf\extra\httpd-vhosts
+
+<VirtualHost *:80>
+    DocumentRoot "D:/windowsapps/xampp/htdocs/laboratory-management-system"
+    ServerName lab.test
+</VirtualHost>
+
+<VirtualHost *:80>
+    DocumentRoot "D:/windowsapps/xampp/htdocs"
+    ServerName localhost
+</VirtualHost>
+
+
+C:\Windows\System32\drivers\etc\hosts
+
+     127.0.0.1       lab.test
