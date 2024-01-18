@@ -11,3 +11,4 @@ Import the sql file to database named `lab`. Location of sql file is `db/lab.sql
 Also change the database password in `includes/connection.php`
 "# Lab-management-system" 
 # Lab-management-system
+# Lab-management-system
